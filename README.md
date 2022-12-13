@@ -1,1 +1,1 @@
-# allure-tests
+allure tests
